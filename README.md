@@ -1,9 +1,12 @@
 # pibrarian
 
 ## Installation
-git clone https://github.com/lebjo2112/pibrarian.git 
+
+`
+git clone https://github.com/lebjo2112/pibrarian.git
 cd pibrarian
 pip3 install -r requirements.txt
+`
 
 ## Usage
 Pibrarian only runs on Linux, as it was meant to be run on a raspberry pi, however with a few small adjustments it should be able to run on any system without issue.
@@ -11,8 +14,9 @@ Pibrarian is a drive catalog script that stores file location information in an 
 After cataloging a drive's contents, pibrarian pulls data from IMDB for appropriate media.
 
 to run:
+`
 python3 pibrarian.py
-
+`
 ## Goals
 Currently pibrarian is only able to pull information regarding Movies and Television shows, and it is not 100% accurate with all titles.
 With that in mind, I would like to improve accuracy, as well as extract data for music artists and authors.
