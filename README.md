@@ -2,11 +2,10 @@
 
 ## Installation
 
-`
-git clone https://github.com/lebjo2112/pibrarian.git
-cd pibrarian
-pip3 install -r requirements.txt
-`
+
+`git clone https://github.com/lebjo2112/pibrarian.git`
+`cd pibrarian`
+`pip3 install -r requirements.txt`
 
 ## Usage
 Pibrarian only runs on Linux, as it was meant to be run on a raspberry pi, however with a few small adjustments it should be able to run on any system without issue.
