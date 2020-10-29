@@ -4,7 +4,9 @@
 
 
 `git clone https://github.com/lebjo2112/pibrarian.git`
+
 `cd pibrarian`
+
 `pip3 install -r requirements.txt`
 
 ## Usage
