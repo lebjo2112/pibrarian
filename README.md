@@ -15,9 +15,9 @@ Pibrarian is a drive catalog script that stores file location information in an 
 After cataloging a drive's contents, pibrarian pulls data from IMDB for appropriate media.
 
 to run:
-`
-python3 pibrarian.py
-`
+
+`python3 pibrarian.py`
+
 ## Goals
 Currently pibrarian is only able to pull information regarding Movies and Television shows, and it is not 100% accurate with all titles.
 With that in mind, I would like to improve accuracy, as well as extract data for music artists and authors.
